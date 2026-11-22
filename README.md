@@ -34,6 +34,6 @@ Se utilizó **UNSW-NB15 (conjunto de entrenamiento)**, creado por el Cyber Range
 
 ## Conclusión
 
-
+El análisis del dataset UNSW-NB15 mostró que el tráfico malicioso se diferencia del normal en variables clave como sttl, rate, ct_dst_src_ltm y | ct_state_ttl. Mientras que la regresión logística alcanzó un accuracy del 83% y un recall del 89% en la clase ataque, el modelo Random Forest superó este |  desempeño logrando un 97% de accuracy y un 95% de recall, detectando 95 de cada 100 ataques reales. Este enfoque funciona como un filtro inicial de | alertas para que el equipo de seguridad (SOC) priorice el tráfico sospechoso y reduzca el riesgo de amenazas no detectadas. 
 
 
