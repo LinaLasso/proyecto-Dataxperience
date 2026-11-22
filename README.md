@@ -24,14 +24,12 @@ Se utilizó **UNSW-NB15 (conjunto de entrenamiento)**, creado por el Cyber Range
 - Copia usada en el proyecto: [UNSW_NB15_training-set.csv](https://raw.githubusercontent.com/stijnhuysman/DissertationData/main/UNSW_NB15_training-set.csv)
 - Variable objetivo: `label` (0 = tráfico normal, 1 = ataque)
 
-## Dónde encontrar 
+## Tabla de contenido
 
-| Qué | Dónde |
-|---|---|
-| Datos | [Dataset UNSW-NB15](https://raw.githubusercontent.com/stijnhuysman/DissertationData/main/UNSW_NB15_training-set.csv) |
-| Cuaderno (Colab) | [Abrir el cuaderno](Copia_de_Proyecto_Ciberseguridad_UNSW_NB15.ipynb) |
-| Presentación | [Ver presentación](Ciberseguridad%20con%20UNSW-NB15%20detectar%20ataques%20con%20ciencia%20de%20datos.pdf) |
-| Video | [Ver video](https://youtu.be/sFslDpxoPHk?si=We61sW6nRwIGreaP) |
+| Datos | [Dataset UNSW-NB15](https://raw.githubusercontent.com/stijnhuysman/DissertationData/main/UNSW_NB15_training-set.csv) |            
+| Cuaderno (Colab) | [Abrir el cuaderno](Copia_de_Proyecto_Ciberseguridad_UNSW_NB15.ipynb) |          
+| Presentación | [Ver presentación](Ciberseguridad%20con%20UNSW-NB15%20detectar%20ataques%20con%20ciencia%20de%20datos.pdf) |        
+| Video | [Ver video](https://youtu.be/sFslDpxoPHk?si=We61sW6nRwIGreaP) |       
 
 
 ## Conclusión
